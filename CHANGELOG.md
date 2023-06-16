@@ -2,6 +2,39 @@
 
 All notable changes to `curator` will be documented in this file.
 
+## v2.7.2 - 2023-06-12
+
+### What's Changed
+
+- Fix: images not showing if on cloud in list view by @awcodes in https://github.com/awcodes/filament-curator/pull/205
+
+**Full Changelog**: https://github.com/awcodes/filament-curator/compare/v2.7.1...v2.7.2
+
+## v2.7.1 - 2023-06-09
+
+### What's Changed
+
+- Fix null state by @howdu in https://github.com/awcodes/filament-curator/pull/204
+
+**Full Changelog**: https://github.com/awcodes/filament-curator/compare/v2.7.0...v2.7.1
+
+## v2.7.0 - 2023-06-09
+
+### What's Changed
+
+- Chore: enforce multiple method to allow only single item selection by @awcodes in https://github.com/awcodes/filament-curator/pull/202
+- Feat: add option to limit picker to field's directory by @awcodes in https://github.com/awcodes/filament-curator/pull/203
+
+**Full Changelog**: https://github.com/awcodes/filament-curator/compare/v2.6.5...v2.7.0
+
+## v2.6.5 - 2023-06-09
+
+### What's Changed
+
+- Fix: null state check on picker component by @awcodes in https://github.com/awcodes/filament-curator/pull/201
+
+**Full Changelog**: https://github.com/awcodes/filament-curator/compare/v2.6.4...v2.6.5
+
 ## v2.6.4 - 2023-06-05
 
 ### What's Changed
